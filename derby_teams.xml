@@ -1,0 +1,106 @@
+<question text="Are they from the US?">
+	<answer userAnswer="yes">
+		<question text="Are they ranked in the top 10?">
+			<answer userAnswer="yes">
+				<question text="Have they ever won champs?">
+					<answer userAnswer="yes">
+						<question text="Are they from the west coast?">
+							<answer userAnswer="yes">
+								<final>Rose City Rollers</final>
+							</answer>
+							<answer userAnswer="no">
+								<final>Gotham Girls Roller Derby</final>
+							</answer>
+						</question>
+					</answer>
+					<answer userAnswer="no">
+						<question text="Does their logo have wings?">
+							<answer userAnswer="yes">
+								<question text="Is Scald Eagle on this team?">
+									<answer userAnswer="yes">
+										<final>Denver Roller Derby</final>
+									</answer>
+									<answer userAnswer="no">
+										<question text="Does they have gold on their uniforms?">
+											<answer userAnswer="yes">
+												<final>Angel City Roller Derby</final>
+											</answer>
+											<answer userAnswer="no">
+												<final>Arch Rival Roller Derby</final>
+											</answer>
+										</question>
+									</answer>
+								</question>
+							</answer>
+							<answer userAnswer="no">
+								<question text="Is SmartyPants on this team?">
+									<answer userAnswer="yes">
+										<final>Texas Rollergirls</final>
+									</answer>
+									<answer userAnswer="no">
+										<final>Jachsonville Rollergirls</final>
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+			<answer userAnswer="no">
+				<question text="Does this team have 'rollergirls' in name?">
+					<answer userAnswer="yes">
+						<question text="Were they at 2017 champs?">
+							<answer userAnswer="yes">
+								<final>Minnesota RollerGirls</final>
+							</answer>
+							<answer userAnswer="no">
+								<final> Atlanta Rollergirls</final>
+							</answer>
+						</question>
+					</answer>
+					<answer userAnswer="no">
+						<final>Bay Area Derby</final>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+	<answer userAnswer="no">
+		<question text="Are they from Europe?">
+			<answer userAnswer="yes">
+				<question text="Are they English?">
+					<answer userAnswer="yes">
+						<question text="Are they ranked in the top 10?">
+							<answer userAnswer="yes">
+								<final>London Rollergirls</final>
+							</answer>
+							<answer userAnswer="no">
+								<final>Rainy City Roller Derby</final>
+							</answer>
+						</question>
+					</answer>
+					<answer userAnswer="no">
+						<question text="Were they at 2017 champs?">
+							<answer userAnswer="yes">
+								<final>Crime City Rollers</final>
+							</answer>
+							<answer userAnswer="no">
+							</answer>
+							<final>Helsinki Roller Derby</final>
+						</question>
+					</answer>
+				</question>
+			</answer>
+			<answer userAnswer="no">
+				<question text="Are they #1 this year?">
+					<answer userAnswer="yes">
+						<final>Victorian Roller Derby League</final>
+					</answer>
+					<answer userAnswer="no">
+						<final>Montreal Roller Derby</final>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+</question>
